@@ -1,4 +1,4 @@
-# Vox-Mundi
+# The Vox Mundi Protocol
 A protocol for unrestricted node communication
 
 this protocol was first thought of by my father, now I have the tools & knowlege to make it come to life :)

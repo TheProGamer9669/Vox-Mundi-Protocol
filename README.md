@@ -7,5 +7,5 @@ It is a basic protocol for data/message transfer using my custom encoding so not
 
 To install you need:
 Python 3.13 installed,
-Python's httpd module installed
+Python's httpd, requests & time modules installed
 and an internet/Network connection

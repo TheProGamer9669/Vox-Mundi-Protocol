@@ -1,2 +1,2 @@
 # Vox-Mundi
-A protocol for unrestricted communication
+A protocol for unrestricted node communication

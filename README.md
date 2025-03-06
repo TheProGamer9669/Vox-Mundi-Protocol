@@ -6,10 +6,10 @@ It is a basic protocol for data/message transfer using my custom encoding so not
 
 
 To install the home network version you need:
-Python 3.13 installed,\n
-Python's httpd, requests, os & time modules installed\n
-Network connection\n
+Python 3.13 installed,
+Python's httpd, requests, os & time modules installed
+and a Network connection.
 
-To install the world nework version you will need:\n
-A computer with a x86-64 CPU,\n
-internet connection
+To install the world nework version you will need:
+A computer with a x86-64 CPU running either Linux or Windows
+and an internet connection.

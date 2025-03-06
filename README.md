@@ -4,7 +4,7 @@ The Vox Mundi protocol is a PTP (Peer To Peer) networking protocol for unrestric
 this protocol was first thought of by my father, now I have the tools & knowledge to make it come to life :)
 It is a basic protocol for data/message transfer using my custom encoding so not just anybody can read the messages as custom encoding provides basic message confidentiality.
 
-To install the home network version you need:
+To install the local network version you need:
 Python 3.13 installed,
 Python's sockets, os & time modules installed
 and a Network connection.

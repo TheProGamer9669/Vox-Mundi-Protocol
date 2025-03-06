@@ -5,7 +5,11 @@ this protocol was first thought of by my father, now I have the tools & knowlege
 It is a basic protocol for data/message transfer using my custom encoding so not just anybody can read the messages. 
 
 
-To install you need:
-Python 3.13 installed,
-Python's httpd, requests, os & time modules installed
-and an internet/Network connection
+To install the home network version you need:
+Python 3.13 installed,\n
+Python's httpd, requests, os & time modules installed\n
+Network connection\n
+
+To install the world nework version you will need:\n
+A computer with a x86-64 CPU,\n
+internet connection

@@ -10,6 +10,6 @@ Python 3.13 installed,
 Python's sockets, os & time modules installed
 and a Network connection.
 
-To install the world nework version you will need:
+To install the world network version you will need:
 A computer with a x86-64 CPU running either Linux or Windows
 and an internet connection.
